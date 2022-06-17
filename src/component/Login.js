@@ -104,7 +104,7 @@ else
         >
           <Box component="img" src={Logo} height="auto" maxWidth="100" />
 
-          <Typography variant="h6" sx={{ color: "#fff" }}>
+          <Typography variant="h6" sx={{ color: "red" }}>
             Digital Recievables
           </Typography>
         </Box>
